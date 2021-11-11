@@ -9,6 +9,6 @@ $ pkg install futures
 
 $ git clone https://github.com/usernameeror/Blue
 
-$ cd Prem
+$ cd Blue
 
-$ python2 blue.py
+$ python2 Blue.py
