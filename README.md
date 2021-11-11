@@ -11,4 +11,4 @@ $ git clone https://github.com/usernameeror/Blue
 
 $ cd Blue
 
-$ python2 Blue.py
+$ python usernameeror.py
