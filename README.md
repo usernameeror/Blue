@@ -11,4 +11,4 @@ $ git clone https://github.com/usernameeror/Blue
 
 $ cd Blue
 
-$ python2 lib.py
+$ python2 Prem.py
