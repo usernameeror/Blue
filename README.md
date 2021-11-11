@@ -1,14 +1,14 @@
 # Blue
-$pkg update && pkg upgrade
+$ pkg update && pkg upgrade
 
 $pkg install python2
 
-$pkg install git
+$ pkg install git
 
-$pkg install futures
+$ pkg install futures
 
-$gitclone https://github.com/usernameeror/Blue
+$ gitclone https://github.com/usernameeror/Blue
 
 $ cd Prem
 
-$python2 blue.py
+$ python2 blue.py
