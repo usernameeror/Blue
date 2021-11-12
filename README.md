@@ -33,4 +33,5 @@ git clone https://github.com/usernameeror/Rans
 
 cd Rans
 
-python2 Rans.py
+python2 premium.py
+
