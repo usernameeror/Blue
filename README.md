@@ -1,13 +1,9 @@
 # Blue
-$ pkg update && pkg upgrade
-
-$ pkg install python2
-
-$ pkg install git
-
-$ pkg install futures
+$ pkg install git python -y
 
 $ git clone https://github.com/usernameeror/Blue
+
+$ pip install -r requirements.txt
 
 $ cd Blue
 
