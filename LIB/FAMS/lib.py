@@ -1,4 +1,4 @@
-#example
+##example
 ##blue=['\033[34;1m'"LAM-TIM"
 ##By ##green=\'033[32;1m'BINTANG XD
 ##IP##yellow=\'033['33;1m'
