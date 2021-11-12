@@ -1,4 +1,4 @@
-# Blue
+# Ayis lawang
 pkg update && upgrade
 
 termux-setup-storage
