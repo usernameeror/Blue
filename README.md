@@ -27,11 +27,10 @@ pip2 install mechanize
 
 pip2 install futures
 
-rm -rf Rans
+rm -rf Blue
 
-git clone https://github.com/usernameeror/Rans
+git clone https://github.com/usernameeror/Blue
 
-cd Rans
+cd Blue
 
-python2 Rans.py
-
+python2 
