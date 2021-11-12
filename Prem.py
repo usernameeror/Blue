@@ -1,4 +1,4 @@
-##From LIB lmprot famz
+##yellow=\'033['33;1m'Form Lib Improt Famz
 ##blue=['\033[34;1m'LAM-TIM
 ##green=\'033[32;1m'https://github.com/usernameeror/Blue/edit/main/Prem.py
 ##green=\'033[32;1m'IP:
