@@ -1,5 +1,5 @@
 ##From LIB lmprot famz
-##"SELAMAT DATANG"
+##blue=['\033[34;1m'LAM-TIM
 ##by BINTANG XD
 ##[1] Login via token
 ##[2] login cokies
